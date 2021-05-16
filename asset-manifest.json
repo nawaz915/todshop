@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todshop/static/css/main.3286cf48.chunk.css",
+    "main.js": "/todshop/static/js/main.c9f9d96b.chunk.js",
+    "main.js.map": "/todshop/static/js/main.c9f9d96b.chunk.js.map",
+    "runtime-main.js": "/todshop/static/js/runtime-main.75e03b16.js",
+    "runtime-main.js.map": "/todshop/static/js/runtime-main.75e03b16.js.map",
+    "static/js/2.1d55bbba.chunk.js": "/todshop/static/js/2.1d55bbba.chunk.js",
+    "static/js/2.1d55bbba.chunk.js.map": "/todshop/static/js/2.1d55bbba.chunk.js.map",
+    "index.html": "/todshop/index.html",
+    "static/css/main.3286cf48.chunk.css.map": "/todshop/static/css/main.3286cf48.chunk.css.map",
+    "static/js/2.1d55bbba.chunk.js.LICENSE.txt": "/todshop/static/js/2.1d55bbba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75e03b16.js",
+    "static/js/2.1d55bbba.chunk.js",
+    "static/css/main.3286cf48.chunk.css",
+    "static/js/main.c9f9d96b.chunk.js"
+  ]
+}
