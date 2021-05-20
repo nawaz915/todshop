@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/todshop/static/css/main.50dfa4ea.chunk.css",
-    "main.js": "/todshop/static/js/main.93f16b9f.chunk.js",
-    "main.js.map": "/todshop/static/js/main.93f16b9f.chunk.js.map",
+    "main.css": "/todshop/static/css/main.b151b21b.chunk.css",
+    "main.js": "/todshop/static/js/main.33086eb7.chunk.js",
+    "main.js.map": "/todshop/static/js/main.33086eb7.chunk.js.map",
     "runtime-main.js": "/todshop/static/js/runtime-main.75e03b16.js",
     "runtime-main.js.map": "/todshop/static/js/runtime-main.75e03b16.js.map",
-    "static/js/2.015288eb.chunk.js": "/todshop/static/js/2.015288eb.chunk.js",
-    "static/js/2.015288eb.chunk.js.map": "/todshop/static/js/2.015288eb.chunk.js.map",
+    "static/js/2.ed9f8233.chunk.js": "/todshop/static/js/2.ed9f8233.chunk.js",
+    "static/js/2.ed9f8233.chunk.js.map": "/todshop/static/js/2.ed9f8233.chunk.js.map",
     "index.html": "/todshop/index.html",
-    "static/css/main.50dfa4ea.chunk.css.map": "/todshop/static/css/main.50dfa4ea.chunk.css.map",
-    "static/js/2.015288eb.chunk.js.LICENSE.txt": "/todshop/static/js/2.015288eb.chunk.js.LICENSE.txt",
-    "static/media/crown.3a4e2b15.svg": "/todshop/static/media/crown.3a4e2b15.svg"
+    "static/css/main.b151b21b.chunk.css.map": "/todshop/static/css/main.b151b21b.chunk.css.map",
+    "static/js/2.ed9f8233.chunk.js.LICENSE.txt": "/todshop/static/js/2.ed9f8233.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/todshop/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/todshop/static/media/shopping-bag.a688874f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.75e03b16.js",
-    "static/js/2.015288eb.chunk.js",
-    "static/css/main.50dfa4ea.chunk.css",
-    "static/js/main.93f16b9f.chunk.js"
+    "static/js/2.ed9f8233.chunk.js",
+    "static/css/main.b151b21b.chunk.css",
+    "static/js/main.33086eb7.chunk.js"
   ]
 }
