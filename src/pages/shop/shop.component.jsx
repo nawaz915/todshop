@@ -3,7 +3,7 @@ import  { withRouter } from 'react-router-dom';
 import SHOP_DATA from './shop.data.js';
 import './shop.styles.scss';
 
-import CollectionPreview from '../../components/collection-preview/collection-preview.component';
+import CollectionPreview from '../../components/collection-preview/collection-preview';
 
 class ShopPage extends React.Component {
 constructor (props) {
